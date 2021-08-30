@@ -15,3 +15,6 @@ You can use `pip` tool to get the necessary packages:
 The model for pose detection is oversized in GitHub, please [download](http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/mpi/pose_iter_160000.caffemodel
 ) it manually and add it into `Resources/` folder.
 
+# Functions:
+`cv_face` is for face detection
+`cv_pose` is for pose detection
