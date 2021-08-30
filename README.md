@@ -1,7 +1,12 @@
-# Upperlimb_Localisation_System
+# Setup:
+To run this mini project on your device, you need the `opencv` package.
 
-## Objective:
+## Linux:
+You can use `<pip>` tool to get the necessary packages:
 
-The objective of this project is to develop a robust and well-packagedprogram that provides real-time and accurate pose estimation of 8 joints, including trunks, shoulders, pronation-supination and elbow, for the EMU Robot.
+  $ sudo apt install python3-pip
+  $ pip install opencv-python
 
+## Windows:
+`<pip>` should work on Windows as well. But personally, I would recommend PyCharm or any other IDE to manage your Python packages in Windows, so the configuration is varied from your IDE. Search it online.
 
